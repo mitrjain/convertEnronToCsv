@@ -1,0 +1,5 @@
+maildir/
+enron*.gz
+structuredData/*.csv
+.DS_Store
+.vscode/
